@@ -1,7 +1,7 @@
-package com.houarizegai.calculator.ui;
+package com.fatemah.calculator.ui;
 
-import com.houarizegai.calculator.theme.properties.Theme;
-import com.houarizegai.calculator.theme.ThemeLoader;
+import com.fatemah.calculator.theme.properties.Theme;
+import com.fatemah.calculator.theme.ThemeLoader;
 
 import java.awt.Cursor;
 import java.awt.Font;
@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 import java.awt.Color;
 import javax.swing.*;
 
-import static com.houarizegai.calculator.util.ColorUtil.hex2Color;
+import static com.fatemah.calculator.util.ColorUtil.hex2Color;
 
 public class CalculatorUI {
 

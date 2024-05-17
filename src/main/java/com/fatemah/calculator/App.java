@@ -1,6 +1,6 @@
-package com.houarizegai.calculator;
+package com.fatemah.calculator;
 
-import com.houarizegai.calculator.ui.CalculatorUI;
+import com.fatemah.calculator.ui.CalculatorUI;
 
 public class App {
 
